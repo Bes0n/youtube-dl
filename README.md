@@ -4,6 +4,7 @@
 .\youtube-dl --username "yourmail@gmail.com" --password "pass" --verbose --sleep-interval 120 "https://app.pluralsight.com/library/courses/teamcity-getting-started" -o "F:/pluralsight/TeamCity/%(playlist_index)s-%(title)s.%(ext)s"  --playlist-start 1 --playlist-end 56
 ```
 
+
 [![Build Status](https://travis-ci.org/rg3/youtube-dl.svg?branch=master)](https://travis-ci.org/rg3/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
